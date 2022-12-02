@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Soumik Das!](https://github.com/Soumikdas96)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumik-das-a32220239/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://soumik-das-portfolio.netlify.app/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/soumikdas__/?fbclid=IwAR1pQwMqruLr5xkAelS5ZCerKSpk7MOpERg8_-bQjfVGco_VjiDVWEWVwBY)
 
 I'm a graduate 🎓 from Maulana Abul Kalam Azad University of Technology 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
